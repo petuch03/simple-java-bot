@@ -14,6 +14,7 @@
 - Language Level 8
 - `org.telegram:telegrambots:4.4.0.1`
 - `org.apache.maven.plugins:maven-shade-plugin:3.4.1`
+- `org.apache.maven.plugins:maven-clean-plugin:3.2.0`
 
 ### If you want to run your own bot
 
