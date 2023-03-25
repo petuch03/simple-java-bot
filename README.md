@@ -13,3 +13,4 @@
 - JDK 11
 - Language Level 8
 - `org.telegram:telegrambots:4.4.0.1`
+- `org.apache.maven.plugins:maven-shade-plugin:3.4.1`
